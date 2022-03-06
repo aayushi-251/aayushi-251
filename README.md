@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aayushi-251
 - 👀 I’m interested in Data Science and Analytics Projects
 - 🌱 I’m currently studying statistics as my major
-- 💞️ I’m looking to collaborate on intersting Data science projects especially in the domain og sports.
+- 💞️ I’m looking to collaborate on intersting Data science projects especially in the domain of sports.
 - 📫 You can reach me at jainaayushi708@gmail.com
 
 <!---
